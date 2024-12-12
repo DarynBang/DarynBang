@@ -6,7 +6,8 @@
 - 🌱 I’m currently learning **Deep Learning and Computer Vision**
 - Some side projects I'm doing: **Game Development and Ecommerce Website**
 
-- 📫 My email: **daryntribang@gmail.com**
+- 📫 Personal email: **daryntribang@gmail.com**
+- 📫 University email: **bang.tieudaryn1803@hcmut.edu.vn**
 
 <p align="left">
 </p>
