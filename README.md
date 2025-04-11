@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Daryn Bằng</h1>
-<h3 align="center">A passionate and aspiring CS undergraduate on his journey to become a Data Scientist</h3>
+<h3 align="center">A passionate and aspiring CS undergraduate on his journey to become a Machine Learning Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=darynbang&label=Profile%20views&color=0e75b6&style=flat" alt="darynbang" /> </p>
 
-- 🌱 I’m currently learning **Deep Learning and Computer Vision**
-- Some side projects I have done: **Web Development with Django**
+- 🌱 I’m currently learning **Deep Learning and Multimodal Vision-Language Development**
+- Some side projects: **Web Development with Django**
 
 - 📫 Personal email: **daryntribang@gmail.com**
 - 📫 University email: **bang.tieudaryn1803@hcmut.edu.vn**
