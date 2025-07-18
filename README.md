@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=darynbang&label=Profile%20views&color=0e75b6&style=flat" alt="darynbang" /> </p>
 
-- 🌱 I’m currently learning **Deep Learning and Multimodal Vision-Language Development**
+- 🌱 I’m currently interested in **Deep Learning and Multimodal Vision-Language Development**
 - Some side projects: **Web Development with Django and Webscraping with Playwright**
 
 - 📫 Personal email: **daryntribang@gmail.com**
