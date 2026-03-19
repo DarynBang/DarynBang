@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=darynbang&label=Profile%20views&color=0e75b6&style=flat" alt="darynbang" /> </p>
 
 - 🌱 I’m currently interested in **Deep Learning and Multimodal Vision-Language Development**
-- Some side projects: **Web Development with Django/FastAPI and Webscraping with Playwright**
+- Some side projects that I've done: **Web Development with Django/FastAPI and Webscraping with Playwright**
 
 - 📫 Personal email: **daryntribang@gmail.com**
 - 📫 University email: **bang.tieudaryn1803@hcmut.edu.vn**
