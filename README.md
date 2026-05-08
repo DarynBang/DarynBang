@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Daryn Bằng</h1>
-<h3 align="center">A passionate and aspiring CS undergraduate on his journey to become a successful Machine Learning Engineer / Researcher</h3>
+<h3 align="center">A passionate CS undergraduate with aspirations to become a successful Machine Learning Engineer / Researcher </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=darynbang&label=Profile%20views&color=0e75b6&style=flat" alt="darynbang" /> </p>
 
