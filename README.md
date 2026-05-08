@@ -1,8 +1,9 @@
 <h1 align="center">Hi 👋, I'm Daryn Bằng</h1>
 <h3 align="center">A passionate and aspiring CS undergraduate on his journey to become a successful Machine Learning Engineer / Researcher</h3>
-<h3 align="center">Recently, I had just gotten accepted into the Viettel Digital Talent program as a Trainee for the DSAI Track! </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=darynbang&label=Profile%20views&color=0e75b6&style=flat" alt="darynbang" /> </p>
+
+<h4 align="center">Recently, I had just gotten accepted into the Viettel Digital Talent program as a Trainee for the DSAI Track! </h4>
 
 - 🌱 I’m currently very interested in **Deep Learning and Multimodal Vision-Language Development**
 - Some side projects that I've done: **Web Development with Django/FastAPI and Webscraping with Playwright**
